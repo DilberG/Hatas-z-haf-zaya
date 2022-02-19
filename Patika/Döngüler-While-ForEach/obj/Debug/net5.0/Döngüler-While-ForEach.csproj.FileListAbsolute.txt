@@ -1,0 +1,16 @@
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\bin\Debug\net5.0\Döngüler-While-ForEach.exe
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\bin\Debug\net5.0\Döngüler-While-ForEach.deps.json
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\bin\Debug\net5.0\Döngüler-While-ForEach.runtimeconfig.json
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\bin\Debug\net5.0\Döngüler-While-ForEach.runtimeconfig.dev.json
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\bin\Debug\net5.0\Döngüler-While-ForEach.dll
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\bin\Debug\net5.0\ref\Döngüler-While-ForEach.dll
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\bin\Debug\net5.0\Döngüler-While-ForEach.pdb
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\obj\Debug\net5.0\Döngüler-While-ForEach.csprojAssemblyReference.cache
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\obj\Debug\net5.0\Döngüler-While-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\obj\Debug\net5.0\Döngüler-While-ForEach.AssemblyInfoInputs.cache
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\obj\Debug\net5.0\Döngüler-While-ForEach.AssemblyInfo.cs
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\obj\Debug\net5.0\Döngüler-While-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\obj\Debug\net5.0\Döngüler-While-ForEach.dll
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\obj\Debug\net5.0\ref\Döngüler-While-ForEach.dll
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\obj\Debug\net5.0\Döngüler-While-ForEach.pdb
+C:\Users\the\Desktop\Patika\Döngüler-While-ForEach\obj\Debug\net5.0\Döngüler-While-ForEach.genruntimeconfig.cache
